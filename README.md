@@ -7,7 +7,7 @@ This project was developed as part of a Computer Graphics course to explore fund
 ## Preview
 
 <p align="center">
-  <img src="screenshots/faculty-dormitory-2d.png" alt="2D Dormitory Building Visualization" width="100%">
+  <img src="screenshots/faculty-dormitory-2d-preview.png" alt="2D Dormitory Building Visualization" width="100%">
 </p>
 
 ## Project Overview
